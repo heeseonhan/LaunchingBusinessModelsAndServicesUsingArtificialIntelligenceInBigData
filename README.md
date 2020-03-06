@@ -1,2 +1,0 @@
-# OpenAIServiceBaseOnBigData
-OpenAIServiceBaseOnBigData
